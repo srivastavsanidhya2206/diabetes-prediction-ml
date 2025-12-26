@@ -20,11 +20,13 @@ classifier for accurate prediction.
 - Pandas  
 - Scikit-learn  
 - Google Colab
-- 
-##  Project Structure:
+
+## 📁 Project Structure
 
 diabetes-prediction/
 │
 ├── README.md # Project overview and documentation
 ├── diabetes (1).csv # Diabetes dataset used for training and testing
 └── diabetes_prediction.ipynb # Main notebook (data preprocessing, training & prediction)
+
+
