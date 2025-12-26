@@ -23,10 +23,10 @@ classifier for accurate prediction.
 
 ## 📁 Project Structure
 
+```
 diabetes-prediction/
 │
-├── README.md # Project overview and documentation
-├── diabetes (1).csv # Diabetes dataset used for training and testing
-└── diabetes_prediction.ipynb # Main notebook (data preprocessing, training & prediction)
-
-
+├── README.md                   # Project overview and documentation
+├── diabetes (1).csv            # Diabetes dataset used for training and testing
+└── diabetes_prediction.ipynb   # Main notebook (data preprocessing, training & prediction)
+```
