@@ -21,7 +21,7 @@ classifier for accurate prediction.
 - Scikit-learn  
 - Google Colab
 
-##  Project Structure
+##  Project Structure:
 
 ```
 diabetes-prediction/
