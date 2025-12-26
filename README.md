@@ -1,2 +1,15 @@
-# diabetes-prediction-ml
-Developed during my Summer Internship at IIT Patna, this project focuses on predicting diabetes using clinical health data. The workflow includes data preprocessing, feature scaling, and training an SVM-based machine learning model for accurate classification. The project highlights practical implementation of end-to-end machine learning pipelines.
+Diabetes Prediction using Machine Learning:
+
+This project was developed during my **Summer Internship at IIT Patna**.
+The objective of this project is to predict whether a person is diabetic or non-diabetic
+using clinical health parameters.
+
+The dataset was preprocessed and standardized using feature scaling, and a
+Support Vector Machine (SVM) model was trained and evaluated for accurate prediction.
+
+Technologies Used:
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Google Colab
