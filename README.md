@@ -18,7 +18,6 @@ classifier for accurate prediction.
 - Python  
 - NumPy  
 - Pandas  
-- Scikit-learn  
 - Google Colab
 
 ##  Project Structure:
